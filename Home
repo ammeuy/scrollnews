@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Página de Noticias</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Noticias de Internet</h1>
+    </header>
+    <main>
+        <article>
+            <h2>Título de la Noticia</h2>
+            <img src="imagen-noticia.jpg" alt="Imagen de la noticia">
+        </article>
+    </main>
+</body>
+</html>
